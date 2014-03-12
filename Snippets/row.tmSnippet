@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@include grid-row(${1:recede amount in negative pixels});$0</string>
+	<key>name</key>
+	<string>row</string>
+	<key>scope</key>
+	<string>source.css, source.scss</string>
+	<key>tabTrigger</key>
+	<string>grid</string>
+	<key>uuid</key>
+	<string>33F8C287-069A-4422-AFB7-21509838976D</string>
+</dict>
+</plist>
