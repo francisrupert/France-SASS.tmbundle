@@ -3,7 +3,12 @@ France-SASS.tmbundle
 
 Generic personal quick snippets. 
 
-TODO:
+Install
+-------
 
-* Install how-to
-* Tab-stops
+Clone to `~/Library/Application Support/Avian/Bundles/`
+
+TODO:
+-----
+
+* Usage
