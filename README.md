@@ -1,8 +1,9 @@
 France-SASS.tmbundle
 ====================
 
-Generic quick snippets. 
+Generic personal quick snippets. 
 
 TODO:
 
-* maybe document some day
+* Install how-to
+* Tab-stops
