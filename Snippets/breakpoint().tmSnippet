@@ -4,7 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>@include breakpoint(${1|XS,S,SM,M,MML,ML,MLL,L,XL,XXL|}) {
-    $0
+    ${2:.selector} {
+        $0
+    }
 }</string>
 	<key>name</key>
 	<string>breakpoint()</string>
