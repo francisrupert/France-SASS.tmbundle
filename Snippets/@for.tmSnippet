@@ -13,7 +13,7 @@
 	<key>scope</key>
 	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
-	<string>sass</string>
+	<string>@</string>
 	<key>uuid</key>
 	<string>56AE7D8C-E4E9-43EB-913F-5A94AEA5DAFF</string>
 </dict>
