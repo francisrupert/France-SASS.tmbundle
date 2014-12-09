@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$properties: (
+	background: red,
+	color: blue,
+	font-size: 1em,
+	font-family: (Helvetica, arial, sans-serif)
+);
+
+.foo {
+	color: map-get(\$properties, color);
+}</string>
+	<key>name</key>
+	<string>Map</string>
+	<key>scope</key>
+	<string>source.css, source.scss</string>
+	<key>tabTrigger</key>
+	<string>@</string>
+	<key>uuid</key>
+	<string>A37D3C51-8A51-49D3-B85B-CF1CB8499181</string>
+</dict>
+</plist>
