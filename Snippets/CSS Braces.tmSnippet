@@ -9,7 +9,7 @@
 	<key>keyEquivalent</key>
 	<string>^ </string>
 	<key>name</key>
-	<string>CSS Braces</string>
+	<string>Braces</string>
 	<key>scope</key>
 	<string>source.css, source.scss, source.less</string>
 	<key>uuid</key>
