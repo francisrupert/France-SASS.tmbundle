@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.${1:SELECTOR-NAME} {
+
+    ${0:outline: 2px solid green;}
+
+}
+</string>
+	<key>keyEquivalent</key>
+	<string>@2</string>
+	<key>name</key>
+	<string>Create selector</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>uuid</key>
+	<string>7CD46BCE-63E6-4FC4-B5A9-BD2867A6126C</string>
+</dict>
+</plist>
