@@ -34,7 +34,7 @@
 	<key>name</key>
 	<string>Delete Rule</string>
 	<key>scope</key>
-	<string>source.scssm source.css</string>
+	<string>source.scss, source.css</string>
 	<key>uuid</key>
 	<string>8400D19E-E86D-472A-92A8-A3589BF60E75</string>
 </dict>
