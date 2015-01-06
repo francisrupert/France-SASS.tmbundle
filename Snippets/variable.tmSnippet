@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$var_${1:variableName} : ${2:value};$0</string>
+	<string>\$${1:variableName} : ${2:value};$0</string>
 	<key>name</key>
-	<string>variable</string>
+	<string>Create variable</string>
 	<key>scope</key>
 	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
