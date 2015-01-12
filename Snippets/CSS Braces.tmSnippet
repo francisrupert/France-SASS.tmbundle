@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>Braces</string>
 	<key>scope</key>
-	<string>source.css, source.scss, source.less</string>
+	<string>source.css, source.scss, source.less, source.js</string>
 	<key>uuid</key>
 	<string>8029738D-57E0-43CE-B72F-BC148CFDF4CE</string>
 </dict>
